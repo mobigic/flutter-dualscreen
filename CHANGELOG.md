@@ -1,3 +1,7 @@
+## 1.0.5
+* Kotlin 2.0.20
+* namespace added
+
 ## 1.0.4
 
 * Updated AGP to 7 and kotlin to 1.7
